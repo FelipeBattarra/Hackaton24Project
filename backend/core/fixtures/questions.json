@@ -1,0 +1,234 @@
+﻿[
+{
+    "model": "core.question",
+    "pk": 1,
+    "fields": {
+        "text": "Eu nÒo me sinto particularmente satisfeito com o jeito que sou",
+        "reverse_scoring": true
+    }
+},
+{
+    "model": "core.question",
+    "pk": 2,
+    "fields": {
+        "text": "Sou uma pessoa muito interessada em outras pessoas",
+        "reverse_scoring": false
+    }
+},
+{
+    "model": "core.question",
+    "pk": 3,
+    "fields": {
+        "text": "Sinto que a vida Ú muito gratificante",
+        "reverse_scoring": false
+    }
+},
+{
+    "model": "core.question",
+    "pk": 4,
+    "fields": {
+        "text": "Tenho sentimentos muito afetivos em relaþÒo a quase todos",
+        "reverse_scoring": false
+    }
+},
+{
+    "model": "core.question",
+    "pk": 5,
+    "fields": {
+        "text": "Raramente acordo me sentindo cansado",
+        "reverse_scoring": true
+    }
+},
+{
+    "model": "core.question",
+    "pk": 6,
+    "fields": {
+        "text": "Eu nÒo estou, particularmente, otimista em relaþÒo ao futuro",
+        "reverse_scoring": true
+    }
+},
+{
+    "model": "core.question",
+    "pk": 7,
+    "fields": {
+        "text": "Sinto que a maioria das minhas experiÛncias sÒo divertidas",
+        "reverse_scoring": false
+    }
+},
+{
+    "model": "core.question",
+    "pk": 8,
+    "fields": {
+        "text": "Estou sempre comprometido e envolvido com vßrias iniciativas",
+        "reverse_scoring": false
+    }
+},
+{
+    "model": "core.question",
+    "pk": 9,
+    "fields": {
+        "text": "A vida Ú boa",
+        "reverse_scoring": false
+    }
+},
+{
+    "model": "core.question",
+    "pk": 10,
+    "fields": {
+        "text": "Eu nÒo acho que o mundo seja um bom lugar para viver",
+        "reverse_scoring": true
+    }
+},
+{
+    "model": "core.question",
+    "pk": 11,
+    "fields": {
+        "text": "Eu me encontro, sempre sorrindo muito",
+        "reverse_scoring": false
+    }
+},
+{
+    "model": "core.question",
+    "pk": 12,
+    "fields": {
+        "text": "Estou bem satisfeito com tudo em minha vida",
+        "reverse_scoring": false
+    }
+},
+{
+    "model": "core.question",
+    "pk": 13,
+    "fields": {
+        "text": "Eu nÒo me sinto uma pessoa atraente",
+        "reverse_scoring": true
+    }
+},
+{
+    "model": "core.question",
+    "pk": 14,
+    "fields": {
+        "text": "Existe uma lacuna entre o que gostaria de fazer e o que faþo",
+        "reverse_scoring": true
+    }
+},
+{
+    "model": "core.question",
+    "pk": 15,
+    "fields": {
+        "text": "Estou muito feliz",
+        "reverse_scoring": false
+    }
+},
+{
+    "model": "core.question",
+    "pk": 16,
+    "fields": {
+        "text": "Eu encontro beleza e harmonia nas coisas",
+        "reverse_scoring": false
+    }
+},
+{
+    "model": "core.question",
+    "pk": 17,
+    "fields": {
+        "text": "Sempre consigo provocar alegria nas pessoas",
+        "reverse_scoring": false
+    }
+},
+{
+    "model": "core.question",
+    "pk": 18,
+    "fields": {
+        "text": "Sempre encontro tempo para tudo que quero realizar",
+        "reverse_scoring": false
+    }
+},
+{
+    "model": "core.question",
+    "pk": 19,
+    "fields": {
+        "text": "Sinto que nÒo tenho controle da minha vida",
+        "reverse_scoring": true
+    }
+},
+{
+    "model": "core.question",
+    "pk": 20,
+    "fields": {
+        "text": "Sinto-me capaz de levar diversas iniciativas adiante",
+        "reverse_scoring": false
+    }
+},
+{
+    "model": "core.question",
+    "pk": 21,
+    "fields": {
+        "text": "Eu me considero uma pessoa mentalmente alerta",
+        "reverse_scoring": false
+    }
+},
+{
+    "model": "core.question",
+    "pk": 22,
+    "fields": {
+        "text": "Muitas vezes me sinto experimentando alegria e euforia",
+        "reverse_scoring": false
+    }
+},
+{
+    "model": "core.question",
+    "pk": 23,
+    "fields": {
+        "text": "Sinto que nÒo Ú fßcil tomar decis§es, em vßrias situaþ§es",
+        "reverse_scoring": true
+    }
+},
+{
+    "model": "core.question",
+    "pk": 24,
+    "fields": {
+        "text": "Sinto nÒo ter um significado e prop¾sito em minha vida",
+        "reverse_scoring": true
+    }
+},
+{
+    "model": "core.question",
+    "pk": 25,
+    "fields": {
+        "text": "Sinto que tenho um nivel elevado de energia",
+        "reverse_scoring": false
+    }
+},
+{
+    "model": "core.question",
+    "pk": 26,
+    "fields": {
+        "text": "Eu geralmente, exerþo uma boa influÛncia sobre os acontecimentos",
+        "reverse_scoring": false
+    }
+},
+{
+    "model": "core.question",
+    "pk": 27,
+    "fields": {
+        "text": "NÒo costumo me divertir com outras pessoas",
+        "reverse_scoring": true
+    }
+},
+{
+    "model": "core.question",
+    "pk": 28,
+    "fields": {
+        "text": "NÒo me sinto, particularmente, uma pessoa saudßvel",
+        "reverse_scoring": true
+    }
+},
+{
+    "model": "core.question",
+    "pk": 29,
+    "fields": {
+        "text": "NÒo tenho, particularmente, lembranþas felizes do meu passado",
+        "reverse_scoring": true
+    }
+}
+]
